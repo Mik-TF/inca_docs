@@ -11,14 +11,14 @@ metadata:
   title:
     default: Project INCA
     template: '%s — Project INCA'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 The INCA Project is the decentralized autonomous cloud for everyone."
   robots:
     index: true
     follow: true
   openGraph:
     site_name: Project INCA
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/inca_background.png'
         width: 1200
         height: 628
     type: website
