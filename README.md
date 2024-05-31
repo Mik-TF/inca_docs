@@ -1,9 +1,4 @@
-# 🚀 AstroWind
-
-<img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
-     alt="AstroWind Lighthouse Score" width="100" height="358">
-
-🌟 _Most *starred* & *forked* Astro theme in 2022 & 2023_. 🌟
+# INCA Docs
 
 **AstroWind** is a free and open-source template to make your website using **[Astro 4.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
 
@@ -32,18 +27,24 @@
 <details open>
 <summary>Table of Contents</summary>
 
-- [Demo](#demo)
-- [Upcoming: AstroWind 2.0 – We Need Your Vision!](#-upcoming-astrowind-20--we-need-your-vision)
-- [Getting started](#getting-started)
-  - [Project structure](#project-structure)
-  - [Commands](#commands)
-  - [Configuration](#configuration)
-  - [Deploy](#deploy)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Related Projects](#related-projects)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [INCA Docs](#inca-docs)
+  - [Demo](#demo)
+  - [🔔 Upcoming: AstroWind 2.0 – We Need Your Vision!](#-upcoming-astrowind-20--we-need-your-vision)
+  - [Getting started](#getting-started)
+    - [Project structure](#project-structure)
+    - [Commands](#commands)
+    - [Configuration](#configuration)
+      - [Customize Design](#customize-design)
+    - [Deploy](#deploy)
+      - [Deploy to production (manual)](#deploy-to-production-manual)
+      - [Deploy to Netlify](#deploy-to-netlify)
+      - [Deploy to Vercel](#deploy-to-vercel)
+  - [Frequently Asked Questions](#frequently-asked-questions)
+  - [Related projects](#related-projects)
+  - [Contributing](#contributing)
+  - [Acknowledgements](#acknowledgements)
+  - [License](#license)
+  - [References](#references)
 
 </details>
 
@@ -292,4 +293,10 @@ Initially created by [onWidget](https://onwidget.com) and maintained by a commun
 
 ## License
 
-**AstroWind** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+**INCA Docs** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+
+## References
+
+This INCA Docs website is based on the amazing [AstroWind repo](https://github.com/onwidget/astrowind).
+
+We changed MIT to Apache license and modified the code to suit this specific project.
