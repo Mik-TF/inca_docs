@@ -44,7 +44,7 @@ export const footerData = {
     {
       title: 'About',
       links: [
-        { text: 'Meet the team', href: '/about' },
+        { text: 'Meet the Team', href: '/about' },
         { text: 'Our Values', href: '/about' },
       ],
     },
