@@ -27,9 +27,11 @@ npm -v
 
 ## Website Preview
 
-You can preview the website by running the two following commands.
+You can preview the website with a few lines.
 
 ```
+git clone https://github.com/Mik-TF/inca_docs
+cd inca_docs
 npm install
 npm run dev
 ```
