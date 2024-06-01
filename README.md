@@ -40,7 +40,7 @@ For more information, read the original [AstroWind docs](./website_docs/README.m
 
 ## License
 
-**INCA Docs** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+**INCA Docs** is licensed under the Apache 2.0 license — see the [LICENSE](./LICENSE.md) file for details.
 
 ## References
 
