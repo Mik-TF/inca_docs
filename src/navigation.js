@@ -65,6 +65,6 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/threefoldtech' },
   ],
   footNote: `
-    A project <a class="text-blue-600 underline dark:text-muted" href="https://github.com/threefoldtech"> ThreeFold</a> · All rights reserved.
+    A project by <a class="text-blue-600 underline dark:text-muted" href="https://github.com/threefoldtech"> ThreeFold</a> · All rights reserved.
   `,
 };
