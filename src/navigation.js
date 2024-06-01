@@ -51,8 +51,8 @@ export const footerData = {
     {
       title: 'Contact',
       links: [
-        { text: 'Email', href: '/contact' },
-        { text: 'Phone', href: '/contact' },
+        { text: 'Let\'s chat', href: '/contact' },
+        { text: 'Support', href: 'https://threefoldfaq.crisp.help/en/' },
       ],
     },
   ],
