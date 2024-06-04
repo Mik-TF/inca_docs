@@ -27,10 +27,11 @@ export const footerData = {
     {
       title: 'Features',
       links: [
+        { text: 'Hero AI Assistant', href: '/features' },
         { text: 'Mycelium Network', href: '/features' },
         { text: 'Quantum Safe Filesystem', href: '/features' },
         { text: 'Self-Healing Zero-OS', href: '/features' },
-        { text: 'Open-Source', href: '/features' },
+
       ],
     },
     {
